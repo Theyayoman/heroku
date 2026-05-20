@@ -51,6 +51,8 @@ app.get("/", (req, res) => {
         <footer class="bg-dark text-white-50 text-center py-3 mt-auto">
             <div class="container">
                 <small>&copy; 2026 Mi Proyecto Heroku. Servidor en vivo.</small>
+                <small>Jair Orozco Dominguez</small>
+                <small>Actividad 2.3. Ephemeral enviroments</small>
             </div>
         </footer>
 
